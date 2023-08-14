@@ -15,9 +15,9 @@ require (
 	go.opentelemetry.io/otel/metric v0.38.1
 	google.golang.org/grpc v1.49.0
 	google.golang.org/protobuf v1.30.0
-	k8s.io/api v0.26.4
-	k8s.io/apimachinery v0.26.4
-	k8s.io/client-go v0.26.4
+	k8s.io/api v0.26.7
+	k8s.io/apimachinery v0.26.7
+	k8s.io/client-go v0.26.7
 	k8s.io/klog/v2 v2.100.1
 	k8s.io/mount-utils v0.26.4
 	k8s.io/utils v0.0.0-20221128185143-99ec85e7a448
